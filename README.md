@@ -138,13 +138,10 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
-Text         23 mins               ████████▒░░░░░░░░░░░░░░░░   32.98 %
-CSS          18 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-Python       10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Makefile     7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-TypeScript   5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Makefile   7 mins                █████████████████░░░░░░░░   67.94 %
+YAML       3 mins                ████████░░░░░░░░░░░░░░░░░   32.06 %
 ```
 
 <!--END_SECTION:waka-->
