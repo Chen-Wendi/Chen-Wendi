@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
-Python     3 hrs 49 mins         ███████████▓░░░░░░░░░░░░░   47.07 %
-Bash       2 hrs 48 mins         ████████▓░░░░░░░░░░░░░░░░   34.50 %
-Other      28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Text       18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-TeX        18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Bash       5 hrs 24 mins         █████████████▓░░░░░░░░░░░   54.77 %
+Python     2 hrs 56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+Other      28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Text       20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+TeX        18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
