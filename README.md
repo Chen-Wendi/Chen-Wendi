@@ -100,18 +100,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HaoyiZhu">
-        <img src="https://avatars2.githubusercontent.com/u/63538191" width="100px;" alt="HaoyiZhu"/>
-      </a>
-      <br />
-      <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Emiyalzn">
         <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
       </a>
       <br />
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HaoyiZhu">
+        <img src="https://avatars2.githubusercontent.com/u/63538191" width="100px;" alt="HaoyiZhu"/>
+      </a>
+      <br />
+      <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dou-Yiming">
