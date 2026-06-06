@@ -138,7 +138,7 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2026 - To: 03 June 2026
+From: 28 May 2026 - To: 04 June 2026
 
 TeX           10 hrs 27 mins        ██████████████▓░░░░░░░░░░   59.18 %
 Markdown      4 hrs 25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
