@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2026 - To: 22 June 2026
+From: 16 June 2026 - To: 23 June 2026
 
-Markdown       29 mins               ██████████████████░░░░░░░   72.46 %
-Other          4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-TeX            4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Git Config     1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-OpenEdge ABL   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+HTML           2 hrs 9 mins          ██████████████▓░░░░░░░░░░   58.55 %
+Markdown       29 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+TeX            20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+SSH Config     19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+BibTeX         11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
