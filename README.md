@@ -86,13 +86,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/g1n0st">Chang Yu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/trackoor">
-        <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
-      </a>
-      <br />
-      <a href="https://github.com/trackoor">Hanzhi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Galaxies99">
         <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
       </a>
@@ -126,6 +119,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ArshiaIlaty">
+        <img src="https://avatars2.githubusercontent.com/u/58371460" width="100px;" alt="ArshiaIlaty"/>
+      </a>
+      <br />
+      <a href="https://github.com/ArshiaIlaty">Arshia Ilaty</a>
     </td>
   </tr>
 </table>
