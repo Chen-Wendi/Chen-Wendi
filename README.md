@@ -70,20 +70,20 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/Kula529">Kula Diamond</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhijian-liu">
-        <img src="https://avatars2.githubusercontent.com/u/5782437" width="100px;" alt="zhijian-liu"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/webbrain-one">
         <img src="https://avatars2.githubusercontent.com/u/295484252" width="100px;" alt="webbrain-one"/>
       </a>
       <br />
       <a href="https://github.com/webbrain-one">WebBrain</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zhijian-liu">
+        <img src="https://avatars2.githubusercontent.com/u/5782437" width="100px;" alt="zhijian-liu"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
     </td>
     <td align="center">
       <a href="https://github.com/g1n0st">
