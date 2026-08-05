@@ -100,6 +100,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/lixiny">
+        <img src="https://avatars2.githubusercontent.com/u/32672902" width="100px;" alt="lixiny"/>
+      </a>
+      <br />
+      <a href="https://github.com/lixiny">Lixin YANG | 杨理欣</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HaoyiZhu">
         <img src="https://avatars2.githubusercontent.com/u/63538191" width="100px;" alt="HaoyiZhu"/>
       </a>
@@ -119,13 +126,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/ArshiaIlaty">Arshia Ilaty</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dou-Yiming">
-        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
   </tr>
 </table>
