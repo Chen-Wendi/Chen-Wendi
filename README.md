@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2026 - To: 15 August 2026
+From: 09 August 2026 - To: 16 August 2026
 
-Markdown     2 hrs 53 mins         ████████░░░░░░░░░░░░░░░░░   32.54 %
-HTML         2 hrs 35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 %
-Mermaid      1 hr 14 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-XML          1 hr 11 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-BibTeX       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Markdown     2 hrs 53 mins         ████████▒░░░░░░░░░░░░░░░░   33.94 %
+HTML         2 hrs 27 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+Mermaid      1 hr 14 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+XML          1 hr 11 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
+BibTeX       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
