@@ -114,18 +114,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Emiyalzn">
-        <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
-      </a>
-      <br />
-      <a href="https://github.com/Emiyalzn">Zenan Li</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ArshiaIlaty">
         <img src="https://avatars2.githubusercontent.com/u/58371460" width="100px;" alt="ArshiaIlaty"/>
       </a>
       <br />
       <a href="https://github.com/ArshiaIlaty">Arshia Ilaty</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Emiyalzn">
+        <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
+      </a>
+      <br />
+      <a href="https://github.com/Emiyalzn">Zenan Li</a>
     </td>
   </tr>
 </table>
