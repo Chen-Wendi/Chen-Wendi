@@ -63,21 +63,12 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/YanjieZe">Yanjie Ze</a>
     </td>
     <td align="center">
-      <a href="https://github.com/webbrain-one">
-        <img src="https://avatars2.githubusercontent.com/u/295484252" width="100px;" alt="webbrain-one"/>
-      </a>
-      <br />
-      <a href="https://github.com/webbrain-one">WebBrain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Kula529">
         <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
       </a>
       <br />
       <a href="https://github.com/Kula529">Kula Diamond</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhijian-liu">
         <img src="https://avatars2.githubusercontent.com/u/5782437" width="100px;" alt="zhijian-liu"/>
@@ -85,6 +76,8 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <br />
       <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/g1n0st">
         <img src="https://avatars2.githubusercontent.com/u/34199452" width="100px;" alt="g1n0st"/>
@@ -126,6 +119,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dou-Yiming">
+        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
   </tr>
 </table>
