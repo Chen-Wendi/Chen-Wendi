@@ -138,9 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2026 - To: 04 September 2026
+From: 29 August 2026 - To: 05 September 2026
 
-No activity tracked
+Markdown      5 hrs 7 mins          ████████████▒░░░░░░░░░░░░   49.68 %
+Python        2 hrs 39 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
+JavaScript    58 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+HTML          45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+JSON          21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
