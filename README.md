@@ -49,13 +49,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
-      <a href="https://github.com/nholuongut">
-        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-      </a>
-      <br />
-      <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/YanjieZe">
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
       </a>
@@ -76,8 +69,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <br />
       <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/g1n0st">
         <img src="https://avatars2.githubusercontent.com/u/34199452" width="100px;" alt="g1n0st"/>
@@ -85,6 +76,8 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <br />
       <a href="https://github.com/g1n0st">Chang Yu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Galaxies99">
         <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
@@ -100,18 +93,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/lixiny">Lixin YANG | 杨理欣</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HaoyiZhu">
-        <img src="https://avatars2.githubusercontent.com/u/63538191" width="100px;" alt="HaoyiZhu"/>
-      </a>
-      <br />
-      <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ArshiaIlaty">
         <img src="https://avatars2.githubusercontent.com/u/58371460" width="100px;" alt="ArshiaIlaty"/>
       </a>
       <br />
       <a href="https://github.com/ArshiaIlaty">Arshia Ilaty</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HaoyiZhu">
+        <img src="https://avatars2.githubusercontent.com/u/63538191" width="100px;" alt="HaoyiZhu"/>
+      </a>
+      <br />
+      <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
@@ -126,6 +119,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anyeZHY">
+        <img src="https://avatars2.githubusercontent.com/u/47559723" width="100px;" alt="anyeZHY"/>
+      </a>
+      <br />
+      <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
     </td>
   </tr>
 </table>
