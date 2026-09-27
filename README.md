@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2026 - To: 25 September 2026
+From: 19 September 2026 - To: 26 September 2026
 
-Python       3 hrs 40 mins         ████████▓░░░░░░░░░░░░░░░░   34.51 %
-Other        3 hrs 38 mins         ████████▓░░░░░░░░░░░░░░░░   34.19 %
-Markdown     2 hrs 6 mins          █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-HTML         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-JSON         20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Python       3 hrs 32 mins         █████████░░░░░░░░░░░░░░░░   35.56 %
+Other        3 hrs 26 mins         ████████▓░░░░░░░░░░░░░░░░   34.68 %
+Markdown     1 hr 55 mins          █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+HTML         20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+TeX          18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
