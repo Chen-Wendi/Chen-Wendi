@@ -79,18 +79,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Galaxies99">
-        <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
-      </a>
-      <br />
-      <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ArshiaIlaty">
         <img src="https://avatars2.githubusercontent.com/u/58371460" width="100px;" alt="ArshiaIlaty"/>
       </a>
       <br />
       <a href="https://github.com/ArshiaIlaty">Arshia Ilaty</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Galaxies99">
+        <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
+      </a>
+      <br />
+      <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
       <a href="https://github.com/HaoyiZhu">
